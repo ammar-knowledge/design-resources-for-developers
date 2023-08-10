@@ -141,6 +141,7 @@
 | [Typespiration](https://typespiration.com/)| Inspirational font combinations and color palettes |
 | [Fontsource](https://fontsource.org/) | Self-host Open Source fonts in neatly bundled NPM packages. |
 | [FontBolt](https://www.fontbolt.com/) | Discover and generate your favorite fonts from pop culture. |
+| [Fontshare](https://www.fontshare.com/) | Fontshare is a free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -820,6 +821,7 @@
 |[Wind UI](https://wind-ui.com/) | Expertly made, responsive, accessible components in React and HTML ready to be used on your website or app. |
 |[Sonner](https://sonner.emilkowal.ski/) | An opinionated toast component for React. |
 |[Pines](https://devdojo.com/pines) | Pines is a library of animations, sliders, tooltips, accordions, modals, and more! It's a set of UI elements that can be copy and pasted into any Alpine and Tailwind projects. |
+|[Kuma UI](https://www.kuma-ui.com/) | With Kuma UI's headless, zero-runtime UI components, build top-performing websites effortlessly, while enjoying the best developer experience. Say hello to the future of CSS-in-JS. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
