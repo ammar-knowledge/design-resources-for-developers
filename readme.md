@@ -1239,6 +1239,9 @@
 | [Super Designer](https://superdesigner.co)| Design tools that give you super powers. |
 | [Landings](https://landings.dev)| Find the best landing pages for your design inspiration based on your preference. |
 | [Page Collective](https://pagecollective.com/)| Page Collective is part of a network of design inspiration websites. |
+| [Curated](https://www.curated.design/)| Unleash your creativity with out-of-this-world web design inspiration from across the web. |
+| [Maxibestofone](https://maxibestof.one/)| Daily feed of websites & fonts inspiration. |
+| [Bento Grids](https://bentogrids.com/)| Bento Grids is a curated collection of tiles-based layouts that were popularized by Apple with their summary slides. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
